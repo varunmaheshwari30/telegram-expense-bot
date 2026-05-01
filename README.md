@@ -268,6 +268,22 @@ Telegram Message
 
 ---
 
+## Pending Work (P3)
+
+- [ ] Single state object refactor — replace all fragmented `state_<chatId>` keys with one JSON object
+- [ ] Bounds check before delete/edit — protect against stale `rowIndex` after sheet edits
+- [ ] Logs sheet for observability — persist GAS logs to a separate sheet
+
+---
+
+## 🚀 Want This for Your Family?
+
+This bot is available for setup assistance.  
+Reach out via:
+- 📧 Email: varunmaheshwari307@gmail.com
+- 💬 Telegram: [@varunmaheshwari30](https://t.me/varunmaheshwari30)
+
+---
 
 ## Security Notes
 
